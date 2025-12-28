@@ -1,3 +1,5 @@
+I will upload the individual files shortly, the .zip is just a holder
+
 # App Switcher - Decky Loader Plugin
 
 A Decky Loader plugin for SteamOS that provides Alt+Tab-like window switching functionality.
